@@ -8,9 +8,15 @@
  */
 class Test
 {
-	public function__construct()
-        {
+	public function __construct()
+    {
 		echo "Hello WD";
 	}
+
+	public function printMessage()
+    {
+        echo "Hello";
+    }
+
 
 }
