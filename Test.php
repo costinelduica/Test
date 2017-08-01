@@ -8,5 +8,9 @@
  */
 class Test
 {
+	public function__construct()
+        {
+		echo "Hello WD";
+	}
 
 }
