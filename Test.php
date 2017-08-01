@@ -19,5 +19,6 @@ class Test
     }
 
     const YEAR = 2017;
+	const TEST=1234;
 
 }
