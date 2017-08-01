@@ -18,5 +18,6 @@ class Test
         echo "Hello";
     }
 
+	const TEST=1234;
 
 }
